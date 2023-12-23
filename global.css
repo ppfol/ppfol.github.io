@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Qiushui';
+    src: url('QiushuiShotai.woff2') format('woff2'),
+         url('QiushuiShotai.woff') format('woff');
+}
+body {
+    font-family: 'Qiushui';
+}
